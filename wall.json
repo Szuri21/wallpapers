@@ -1,103 +1,896 @@
 {
 
-    "Wallpapers":[
+    "Wallpapers":[{       
+                "name": "Alone Fox",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AloneFox.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Alone Fox 2",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AloneFox2.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Alone Fox 3",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AloneFox3.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Alone fox Amoled",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AloneFoxAmoled.png",
+		"collections": "Landscapes,Amoled",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+                "name": "Pixel Style 2",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PixelStyle2.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Pixel Style 3",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PixelStyle3.png",
+		"collections": "Pixel",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Pixel Style 4",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PixelStyle4.png",
+		"collections": "Pixel",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Pixel Style 5",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PixelStyle5.png",
+		"collections": "Pixel",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Pixel Style Amoled",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PixelStyleAmoled.png",
+		"collections": "Pixel,Amoled",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+                "name": "Skater",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Skater.png",
+		"collections": "Skater",
+		"downloadable": true,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Skater 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Skater1.png",
+		"collections": "Skater",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Skater 2",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Skater2.png",
+		"collections": "Skater",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Skater 3",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Skater3.png",
+		"collections": "Skater",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+                "name": "Mountains Tree",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MountainsTree.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Mountains Tree 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MountainsTree1.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Mountains Tree 2",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MountainsTree2.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Mountains Tree Amoled",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MountainsTreeAmoled.png",
+		"collections": "Landscapes,Amoled",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+                "name": "Amoled Forest Deer",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AmoledForestDeer.png",
+		"collections": "Landscapes,Amoled,Deer",
+		"downloadable": true,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Amoled Forest Deer 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AmoledForestDeer1.png",
+		"collections": "Landscapes,Amoled,Deer",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Amoled Forest Deer 2 ",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AmoledForestDeer2.png",
+		"collections": "Landscapes,Amoled,Deer",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Amoled Forest Deer 3",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AmoledForestDeer3.png",
+		"collections": "Landscapes,Amoled,Deer",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+                "name": "Japan Tori Fox",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanToriFox.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Japan Tori Fox 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanToriFox1.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Japan Tori Fox 2",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanToriFox2.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Japan Tori Fox 3",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanToriFox3.png",
+		"collections": "Landscapes,Amoled",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+                "name": "Fanart 2",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/DeadPool2.png",
+		"collections": "Hero",
+		"downloadable": true,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Fanart 3",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/DeadPool3.png",
+		"collections": "Hero",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Fanart 4",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/DeadPool4.png",
+		"collections": "Hero",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Fanart 5",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/DeadPool5.png",
+		"collections": "Hero",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Fanart 6",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/DeadPool6.png",
+		"collections": "Hero",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Plane Sunset 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PlaneSunset1.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Plane Sunset Amoled",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PlaneSunsetAmoled.png",
+		"collections": "Landscapes,Amoled",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+                "name": "Firewatch Style",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/FirewatchStyle.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Firewatch Style 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/FirewatchStyle1.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Gradient Desert",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/GradientDesert.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Gradient Desert 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/GradientDesert1.png",
+		"collections": "Landscapes,Desert",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Gradient Desert 2",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/GradientDesert2.png",
+		"collections": "Landscapes,Desert",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Beauty Gray Forest",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyGrayForest.png",
+		"collections": "Landscapes,Gray",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Beauty Amoled Forest",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyAmoledForest.png",
+		"collections": "Landscapes,Amoled",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Beauty Colors Forest",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyColorsForest.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Jungle 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Jungle1.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Beauty Train Bridge 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyTrainBridge1.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+        {           
+                "name": "Africa",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Africa.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+		"dimensions": "2000 x 4000 px"
+	},
+	{
+		"name": "Africa 2",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Africa2.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Alone House 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AloneHouse1.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Alone House 2",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AloneHouse2.png",
+		"collections": "Landscapes",
+   		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+
+        },
+	{
+		"name": "Alone In Desert",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AloneInDesert.png",
+		"collections": "Desert",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"   
+        },
+	{
+		"name": "Alone In Desert 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AloneInDesert1.png",
+		"collections": "Desert",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Amazing Desert Sunset",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AmazingDesertSunset.png",
+		"collections": "Desert",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Amazing Desert Sunset 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AmazingDesertSunset1.png",
+		"collections": "Desert",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Beautiful Day Desert",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautifulDayDesert.png",
+		"collections": "Desert",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Beautiful Night Desert",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautifulNightDesert.png",
+		"collections": "Desert",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Beautiful Sunset Deer",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautifulSunsetDeer.png",
+		"collections": "Landscapes,Deer",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Beautiful Sunset Deer 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautifulSunsetDeer1.png",
+		"collections": "Landscapes,Deer",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Beauty Colors Desert",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyColorsDesert.png",
+		"collections": "Landscapes,Desert",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Beauty Colors Desert 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyColorsDesert1.png",
+		"collections": "Landscapes,Desert",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Beauty Landscape",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyLandscape.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Beauty Landscape 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyLandscape1.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Mountains View",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MountainsView.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Mountains View 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MountainsView1.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Beauty Place",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyPlace.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Beauty Place 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyPlace1.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Beauty Train Bridge",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyTrainBridge.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Beauty Tree",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyTree.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Beauty Tree 2",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyTree2.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Blue Sky",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BlueSky.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Sunset Sky",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SunsetSky.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Day Boat",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/DayBoat.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Deer Night",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/DeerNight.png",
+		"collections": "Landscapes,Deer",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Deer Night 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/DeerNight1.png",
+		"collections": "Landscapes,Deer",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Desert Gray",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/DesertGray.png",
+		"collections": "Landscapes,Desert,Gray",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Forest Sunset",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/ForestSunset.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Forest Sunset Night",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/ForestSunsetNight.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Gradient Deer",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/GradientDeer.png",
+		"collections": "Landscapes,Deer",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Gradient Deer 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/GradientDeer1.png",
+		"collections": "Landscapes,Deer",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Gray Deer",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/GrayDeer.png",
+		"collections": "Landscapes,Deer,Gray",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Gray Mountain",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/GrayMountain.png",
+		"collections": "Landscapes,Gray",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Jungle",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Jungle.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "LightHouse",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/LightHouse.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "LightHouse 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/LightHouse1.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Pixel Style",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PixelStyle.png",
+		"collections": "Pixel",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Pixel Style 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PixelStyle1.png",
+		"collections": "Pixel",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Plane Sunset",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PlaneSunset.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Plane Sunset Gray",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PlaneSunsetGray.png",
+		"collections": "Landscapes,Gray",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Play Again",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PlayAgain.png",
+		"collections": "Space",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Play Again 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PlayAgain1.png",
+		"collections": "Space",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Rocket Space",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/RocketSpace.png",
+		"collections": "Space",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Rocket Space 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/RocketSpace1.png",
+		"collections": "Space",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Secret Sword",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SecretSword.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Secret Sword 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SecretSword1.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Secret Sword 3",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SecretSword3.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Secret Sword 2",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SecretSword2.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Space Planet",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SpacePlanet.png",
+		"collections": "Space",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "SpacePlanetAmoled",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SpacePlanetAmoled.png",
+		"collections": "Space,Amoled",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Stars View",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/StarsView.png",
+		"collections": "Space,Landscape",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Stars View 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/StarsView1.png",
+		"collections": "Landscapes,Space",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Strange Planet",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/StrangePlanet.png",
+		"collections": "Space,Desert",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Strange Planet 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/StrangePlanet1.png",
+		"collections": "Space,Desert",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Strange Planet Gray",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/StrangePlanetGray.png",
+		"collections": "Space,Desert,Gray",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Sunset Boat",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SunsetBoat.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Two Colors Mountain",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/TwocolorsMountain.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Two Colors Mountain 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/TwocolorsMountain1.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Window View Amoled",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/WindowViewAmoled.png",
+		"collections": "Landscapes,Amoled",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Window View",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/WindowView.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Amazing Desert Sunset Grain ",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AmazingDesertSunsetGrain.jpg",
+		"collections": "Grain",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Gradient Desert Grain",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/GradientDesertGrain.jpg",
+		"collections": "Grain",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Japan Tori Fox Grain",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanToriFoxGrain.jpg",
+		"collections": "Grain",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Mountains Tree Grain",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MountainsTreeGrain.jpg",
+		"collections": "Grain",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Mountains View Grain",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MountainsViewGrain.jpg",
+		"collections": "Grain",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Pixel Style 1 Grain",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PixelStyle1Grain.jpg",
+		"collections": "Grain",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Skater Grain",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SkaterGrain.jpg",
+		"collections": "Grain",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
         
-{"name":"Africa","author":"","url":"https://drive.google.com/uc?id=1Lb4lFzv_vb_ow_tjPGAR-0n1LZXiBRpe&export=download","thumbnail":"https://drive.google.com/uc?id=11rRcvJsTZZkK55KZMLc08IYCRsJIhVli&export=download","downloadable":true },
-{"name":"Africa2","author":"","url":"https://drive.google.com/uc?id=16FohZlMcHvWgBPUZSQwiY8I_AEBjyr41&export=download","thumbnail":"https://drive.google.com/uc?id=1PHgOo8D8r4cnnsdvPKxTEU2Q-VmG4MMH&export=download","downloadable":true },
-{"name":"AloneHouse1","author":"","url":"https://drive.google.com/uc?id=1I5XfIbg0xSIQXCZe2w9L9D7kDTdu3tGa&export=download","thumbnail":"https://drive.google.com/uc?id=1gceuy80oVyMn1614zac6yy0NfcmDogkp&export=download","downloadable":true },
-{"name":"AloneHouse2","author":"","url":"https://drive.google.com/uc?id=1fwdqzOr1XxOhvQ5HYWwbD-9RGlsvsFz1&export=download","thumbnail":"https://drive.google.com/uc?id=1e4IVxl_J4JqnD-_NljRfvgWVWvN36rwJ&export=download","downloadable":true },
-{"name":"AloneInDesert","author":"","url":"https://drive.google.com/uc?id=1BiVxyoFxA-0qGpRiNvFnvnvRjeKTvgkv&export=download","thumbnail":"https://drive.google.com/uc?id=1LZKlgrnGNu9NT3prIYR24ZtHpiyCri2Y&export=download","downloadable":true },
-{"name":"AloneInDesert1","author":"","url":"https://drive.google.com/uc?id=1JJwoK3w-b4BcdSWe0CvyiofGSFUQryLg&export=download","thumbnail":"https://drive.google.com/uc?id=1_qQ4PWtbvNvgB9sJHtqxHu-WCJ_9qrA5&export=download","downloadable":true },
-{"name":"AmazingDesertSunset","author":"","url":"https://drive.google.com/uc?id=1FdDRW8IOYdM9gUJuhk0s-_5oiXZNec84&export=download","thumbnail":"https://drive.google.com/uc?id=1I7Lmdog8-JMaQFtt7RV5dZmwyq6E_Uda&export=download","downloadable":true },
-{"name":"AmazingDesertSunset1","author":"","url":"https://drive.google.com/uc?id=1TqXZF4-cD_GIpLhPw6ky6hfiIWo4iTSS&export=download","thumbnail":"https://drive.google.com/uc?id=1CwSl4c3J0v0zDoYqo2XCZWTP7vpusfEE&export=download","downloadable":true },
-{"name":"AmoledForestDeer","author":"","url":"https://drive.google.com/uc?id=1cr6TWVq1gpQTjZP7ZC-rHLYG9wRRkjI9&export=download","thumbnail":"https://drive.google.com/uc?id=1TZpAWwx_IyyIT7lV6Va0_lj7tUxpmDMI&export=download","downloadable":true },
-{"name":"AmoledForestDeer1","author":"","url":"https://drive.google.com/uc?id=1vppV5QX4MTaYccnXc6Ks66ahmQUIdan_&export=download","thumbnail":"https://drive.google.com/uc?id=10GXnVIUARuLOM1HaTIckHZ65DmkDs3dU&export=download","downloadable":true },
-{"name":"AmoledForestDeer2","author":"","url":"https://drive.google.com/uc?id=11Wro6Cn7ZOu3YnXBBvoq2afjovD7UfZI&export=download","thumbnail":"https://drive.google.com/uc?id=11qlfCL6qAUA-WWG5tI9gX6I_gU5wXzcp&export=download","downloadable":true },
-{"name":"AmoledForestDeer3","author":"","url":"https://drive.google.com/uc?id=1-1uhSRtQ6x9AnD1yXeor8Gxyn9h2v2M3&export=download","thumbnail":"https://drive.google.com/uc?id=1YVrXn_zcJ7K9Ty18z4KyM-V8nSULyFI2&export=download","downloadable":true },
-{"name":"BeautifulDayDesert","author":"","url":"https://drive.google.com/uc?id=1oheuyg6ZfwJhlQQoMKBu8dtvlZmmHsVS&export=download","thumbnail":"https://drive.google.com/uc?id=1a9hVCriNr5p0vZ7jvDZf4lsy7P__eqqW&export=download","downloadable":true },
-{"name":"BeautifulNightDesert","author":"","url":"https://drive.google.com/uc?id=1dw0531QEf9p2pkTMimYVFBFJZnUMyZMt&export=download","thumbnail":"https://drive.google.com/uc?id=1MGzQd8xUfeyScHCXx0yIvJs3I0O_AuFU&export=download","downloadable":true },
-{"name":"BeautifulSunsetDeer","author":"","url":"https://drive.google.com/uc?id=1t2t3XybjZb2l0GoTFrmoKALOfhdZZBMI&export=download","thumbnail":"https://drive.google.com/uc?id=1qPFOg8VNu1Dj5Jv0kLqDopDIY6NBoPdK&export=download","downloadable":true },
-{"name":"BeautifulSunsetDeer1","author":"","url":"https://drive.google.com/uc?id=19JTNJxR7xVOWvowu2hHQElyGvcgsdBoo&export=download","thumbnail":"https://drive.google.com/uc?id=11u4OlhDH9Fs8pKePJkPPi76CGmKG76IS&export=download","downloadable":true },
-{"name":"BeautyAmoledForest","author":"","url":"https://drive.google.com/uc?id=14K8jBcTpodzBu4p5qAF6i_VHAECDQTqN&export=download","thumbnail":"https://drive.google.com/uc?id=19GynFI2uZaf-zv2ohj8-k6Nb5IuPhM-N&export=download","downloadable":true },
-{"name":"BeautyColorsDesert","author":"","url":"https://drive.google.com/uc?id=18YtjnSWLW0VS-cFUHbt137Juf-NKZ2ZW&export=download","thumbnail":"https://drive.google.com/uc?id=1z5YkhDN77jgqfNHykbleWqHn_8kwSruz&export=download","downloadable":true },
-{"name":"BeautyColorsDesert1","author":"","url":"https://drive.google.com/uc?id=1qfSw8pmHwqDvAAlJKOwapxWYkHcxLtcX&export=download","thumbnail":"https://drive.google.com/uc?id=1MkVC4eOn1VShmIsuABOgYdfXsRyL6-DB&export=download","downloadable":true },
-{"name":"BeautyColorsForest","author":"","url":"https://drive.google.com/uc?id=1J6MRT183D4d_n2VV6IRUQFY5Tasz466C&export=download","thumbnail":"https://drive.google.com/uc?id=1I1hcRHmEOEHtlBRoBr2R8mInO3PYlvzA&export=download","downloadable":true },
-{"name":"BeautyGrayForest","author":"","url":"https://drive.google.com/uc?id=1qfwmQggrXXQ2eUrhcDP2wJEiA9rVhadH&export=download","thumbnail":"https://drive.google.com/uc?id=15gzDB1zsx1DjUhgc_0-1ODiE6W2LAQdJ&export=download","downloadable":true },
-{"name":"BeautyLandscape","author":"","url":"https://drive.google.com/uc?id=1SdaT6EDoMdJXAWX181cy-3R8SuxDh0yS&export=download","thumbnail":"https://drive.google.com/uc?id=1k5iiRtVEdcwQz0Sl_Rj8Zf15PNTWFnIt&export=download","downloadable":true },
-{"name":"BeautyLandscape1","author":"","url":"https://drive.google.com/uc?id=1VmmRd70QPOzV05TEjwhCwQ0At63kiCps&export=download","thumbnail":"https://drive.google.com/uc?id=1d2sxBEoM9v6yvz9etrEpKdNH2iYhUVat&export=download","downloadable":true },
-{"name":"BeautyPlace","author":"","url":"https://drive.google.com/uc?id=1_hCPMDpcfLMcVMUk5N78pz7kI1uDoI3k&export=download","thumbnail":"https://drive.google.com/uc?id=1R30cArJ-tlpDOr8X0m7jo7Hbh4cKdHHj&export=download","downloadable":true },
-{"name":"BeautyPlace1","author":"","url":"https://drive.google.com/uc?id=1m2asIHocDjgBpZoYyhEgyaC3sfnUyivB&export=download","thumbnail":"https://drive.google.com/uc?id=1CpPxjDky42MwSJgesPCT2o6675lZwTMO&export=download","downloadable":true },
-{"name":"BeautyTrainBridge","author":"","url":"https://drive.google.com/uc?id=1-B1SITk6GmCBwuxwgWRv3rbPfzWjULfm&export=download","thumbnail":"https://drive.google.com/uc?id=19_3HddYrAfj3iRVAq4ArCQ5MgeuZrBr2&export=download","downloadable":true },
-{"name":"BeautyTrainBridge1","author":"","url":"https://drive.google.com/uc?id=1lpNwO7gy83pvw0r9PQUNOph-BV458N_L&export=download","thumbnail":"https://drive.google.com/uc?id=1p66t0DqnD3TxadKfDGsti0Kjb6p-667a&export=download","downloadable":true },
-{"name":"BeautyTree","author":"","url":"https://drive.google.com/uc?id=1_dgO55LJghDtLqMIz9vECl18k-NpwGFz&export=download","thumbnail":"https://drive.google.com/uc?id=1VQNQRrPq0rQvpzRBixGBJKsl-YcD0OSg&export=download","downloadable":true },
-{"name":"BeautyTree2","author":"","url":"https://drive.google.com/uc?id=1g3mR9HnykbRa7FsNSkDP_vlcidqHWTUk&export=download","thumbnail":"https://drive.google.com/uc?id=13wWwY6zhBGhJk1iC9r2v0Hv1PcUvz2tn&export=download","downloadable":true },
-{"name":"BlueSky","author":"","url":"https://drive.google.com/uc?id=1-BEIIpuwSwfCIJPFq5Tl2RytEmOAh87J&export=download","thumbnail":"https://drive.google.com/uc?id=1SH3GTwZZrMr4zXSIJfl1pFUntY-mo5A0&export=download","downloadable":true },
-{"name":"DayBoat","author":"","url":"https://drive.google.com/uc?id=1qwstdngRaLmDxDNaMNtCSIaWZ5WETZNq&export=download","thumbnail":"https://drive.google.com/uc?id=1nwVOsRHVZiDfPve7YlbQRZNXeZik_ONC&export=download","downloadable":true },
-{"name":"DeadPool2","author":"","url":"https://drive.google.com/uc?id=1ZPosJ6hSQVY0zGUY_coD2B9MVYGKzIpE&export=download","thumbnail":"https://drive.google.com/uc?id=1my1SM4TZW6-qp1oQk73niHp-UuGFYpQN&export=download","downloadable":true },
-{"name":"DeadPool3","author":"","url":"https://drive.google.com/uc?id=1vi5zgrORLhYiS2vvVeALVXvgKrmZ4b2a&export=download","thumbnail":"https://drive.google.com/uc?id=1i9S9yvSDL1wegKk9JC6-VUvVFi2bVT5I&export=download","downloadable":true },
-{"name":"DeadPool4","author":"","url":"https://drive.google.com/uc?id=11-lsgHIzT7CirpCYokDkfG0i8mtpjOeM&export=download","thumbnail":"https://drive.google.com/uc?id=1B_0rlEdPE5nJB8zURPkipt3bN6qX2Pu8&export=download","downloadable":true },
-{"name":"DeadPool5","author":"","url":"https://drive.google.com/uc?id=1EtqllZrwaCXRcBHqRbxjjQlKUvGHUMQ5&export=download","thumbnail":"https://drive.google.com/uc?id=15cVf8fsHwV0zsu2vGe1hI6qHCCzJ8kaA&export=download","downloadable":true },
-{"name":"DeadPool6","author":"","url":"https://drive.google.com/uc?id=1UTfcCL83fcPntCFxLBQIv7Rfm2uVVx3J&export=download","thumbnail":"https://drive.google.com/uc?id=14ml8zWmVowOXBbuy2p3twm0-e5SaYU3N&export=download","downloadable":true },
-{"name":"DeerNight","author":"","url":"https://drive.google.com/uc?id=1iPoHPgsygBYKaxWxwFeQ1BF34xiDK7jW&export=download","thumbnail":"https://drive.google.com/uc?id=1P7vTiSa6NVBfe9-WKwSn5dmf6Cs_o0Fe&export=download","downloadable":true },
-{"name":"DeerNight1","author":"","url":"https://drive.google.com/uc?id=1gluqvxETyJikcwHLCXLMrPpFXhKl_VdD&export=download","thumbnail":"https://drive.google.com/uc?id=1MTLvJIQhn6nepGTOVa9_DYT5QEIo6FV2&export=download","downloadable":true },
-{"name":"DesertGray","author":"","url":"https://drive.google.com/uc?id=1zvfwNTkiNjJ6kSnwhTlSsL7aIMiuvd0C&export=download","thumbnail":"https://drive.google.com/uc?id=1uJe2_wdeSz5Oo5oNRAAoaPqPcCywi88D&export=download","downloadable":true },
-{"name":"FirewatchStyle","author":"","url":"https://drive.google.com/uc?id=19fpq0V6Rr94UbsLvkTGcd88z-DGf4Bby&export=download","thumbnail":"https://drive.google.com/uc?id=16ccpuhHsRVal83a1xbXzjR_DUICDdaCV&export=download","downloadable":true },
-{"name":"FirewatchStyle1","author":"","url":"https://drive.google.com/uc?id=1w2oboqypQOYNUbyX95t1KS0bq7QMHVm8&export=download","thumbnail":"https://drive.google.com/uc?id=1s0OeFv_FSj1jt4gA7uML5K9P6l78omqp&export=download","downloadable":true },
-{"name":"ForestSunset","author":"","url":"https://drive.google.com/uc?id=1wWbQBLFKgT1fZYBX6cjE8bBDclQwyC-4&export=download","thumbnail":"https://drive.google.com/uc?id=1JyIhSvSskA74pRv95BM0bqHgvpbZK9Hf&export=download","downloadable":true },
-{"name":"ForestSunsetNight","author":"","url":"https://drive.google.com/uc?id=1QYIxeF_S1EYf908JSJSwu-cF7U5nYPd-&export=download","thumbnail":"https://drive.google.com/uc?id=1X9f650hFU4qrofLRf6CSsKgH1XPIuotY&export=download","downloadable":true },
-{"name":"GradientDeer","author":"","url":"https://drive.google.com/uc?id=1wMRo_QipPsUjQm808OhUB6Nc0Byko2cY&export=download","thumbnail":"https://drive.google.com/uc?id=1Fy_GXXSSEa8ApfniMRQ2Bz_NIcIXGDnd&export=download","downloadable":true },
-{"name":"GradientDeer1","author":"","url":"https://drive.google.com/uc?id=1EOd77elA90g-xnVXjSqUQqkFj4EeZtoI&export=download","thumbnail":"https://drive.google.com/uc?id=1Qhhu-XBQZlcgisaBa115zD_r7pCVfZx2&export=download","downloadable":true },
-{"name":"GradientDesert","author":"","url":"https://drive.google.com/uc?id=1pGC9W5y3KKruWqxKJF6hce3-My688_ci&export=download","thumbnail":"https://drive.google.com/uc?id=1S1OLZGluGju8GOVNEwg4oiHbj7H6-en_&export=download","downloadable":true },
-{"name":"GradientDesert1","author":"","url":"https://drive.google.com/uc?id=15HwpCiN1uhNFIZQo0R4BcuC1QRWA6cOf&export=download","thumbnail":"https://drive.google.com/uc?id=1qcSsPj3C8n0sLwNcaLZqTfr7k40-1ku7&export=download","downloadable":true },
-{"name":"GradientDesert2","author":"","url":"https://drive.google.com/uc?id=1ks8c8M6fTh6LTIDksPVeQavNqDsDxbTd&export=download","thumbnail":"https://drive.google.com/uc?id=1vYMRB2l75pTImn24dlSNYhe8OWJLLh4d&export=download","downloadable":true },
-{"name":"GrayDeer","author":"","url":"https://drive.google.com/uc?id=1uwfTlth1cc-VKaup8j8GzQXpR0LDlDSx&export=download","thumbnail":"https://drive.google.com/uc?id=1Z-FaIcU4ACUPGVGtBf6m3rXYrioZp6eC&export=download","downloadable":true },
-{"name":"GrayMountain","author":"","url":"https://drive.google.com/uc?id=1-emAHc_Z-BksJQA3m0SSTF66OOWP6c47&export=download","thumbnail":"https://drive.google.com/uc?id=13yjg0DAmUy7XFYne2sEN97Alj8Q_qynh&export=download","downloadable":true },
-{"name":"JapanToriFox","author":"","url":"https://drive.google.com/uc?id=1k5NIRaHvn1KL_s8C2VRXGobl8PxlYLjw&export=download","thumbnail":"https://drive.google.com/uc?id=1uBclVhmRs-ORiCZ_-SYjgMqj-Ev7xVFT&export=download","downloadable":true },
-{"name":"JapanToriFox1","author":"","url":"https://drive.google.com/uc?id=1AEP3qr4PCef2s5OR6t-iHobehiCu6Va1&export=download","thumbnail":"https://drive.google.com/uc?id=1wcB0iUxWnNb4QXzvqjJWjW1anjCXVAlH&export=download","downloadable":true },
-{"name":"JapanToriFox2","author":"","url":"https://drive.google.com/uc?id=1zfOxmnUvOg8CXYxnUYJ5AH9Ax_bTN_m0&export=download","thumbnail":"https://drive.google.com/uc?id=10bJEfJHdTnmdcCKlgDE-h3PG_qDFn4bO&export=download","downloadable":true },
-{"name":"JapanToriFox3","author":"","url":"https://drive.google.com/uc?id=1y7sbvC-ycZm6NekGbjS8C_W1oqS7eY06&export=download","thumbnail":"https://drive.google.com/uc?id=1RrsfoZMvjL5spkAa7DIp9qAiWyRMa5sJ&export=download","downloadable":true },
-{"name":"Jungle","author":"","url":"https://drive.google.com/uc?id=1BtR5do0B3kMLQYHZcKbAciSADQrn0aZe&export=download","thumbnail":"https://drive.google.com/uc?id=1wf1rpMfgSFcaRM_H3NuJIfxJYQD5Ua5w&export=download","downloadable":true },
-{"name":"Jungle1","author":"","url":"https://drive.google.com/uc?id=1VDq6MhjGLQJgqJrwvh_vJc5cS1G3mX9e&export=download","thumbnail":"https://drive.google.com/uc?id=1M8rqVe5taOX679DsU7dYfcGVV5Owq3gh&export=download","downloadable":true },
-{"name":"LightHouse","author":"","url":"https://drive.google.com/uc?id=1MK7aendmNNHuqn5bYErGskSZ3P8ew3fo&export=download","thumbnail":"https://drive.google.com/uc?id=1MUxu7FM1gEj46L98lbi2zrtlC-RWvnUC&export=download","downloadable":true },
-{"name":"LightHouse1","author":"","url":"https://drive.google.com/uc?id=1PY-m6EP5GNHb-ADmZrxHh22ZU0wm9IRd&export=download","thumbnail":"https://drive.google.com/uc?id=1rH1vOqV0ADMtsj43KZzPaITD3wNuNVoG&export=download","downloadable":true },
-{"name":"MountainsTree","author":"","url":"https://drive.google.com/uc?id=1G4XozsGKnUETThdMUku6tQsQXqV5hkYx&export=download","thumbnail":"https://drive.google.com/uc?id=1VcyiNd5ev78WfBHQTp49yrq_3_gxjjTT&export=download","downloadable":true },
-{"name":"MountainsTree1","author":"","url":"https://drive.google.com/uc?id=1k8RBalFeyTr_iR6825frDMlySMeN3vax&export=download","thumbnail":"https://drive.google.com/uc?id=1TiWOs12gNfRGNqBGh85c62KSFElFIv-j&export=download","downloadable":true },
-{"name":"MountainsTree2","author":"","url":"https://drive.google.com/uc?id=1Jmqyo9vNfZMmdbdK3LQqkM9YvW2Awh8Z&export=download","thumbnail":"https://drive.google.com/uc?id=1FKm9gSnRTRJsSXTgeydvIBaRYJ607OOj&export=download","downloadable":true },
-{"name":"MountainsTreeAmoled","author":"","url":"https://drive.google.com/uc?id=1hIuv1MQkARcZfyASvoEZYXmG6AW4XL76&export=download","thumbnail":"https://drive.google.com/uc?id=1jB9xw36jHpUmz_rPlCypaijzzABymZDh&export=download","downloadable":true },
-{"name":"MountainsView","author":"","url":"https://drive.google.com/uc?id=15UgSn9kolhKtLurGucg-jdnszUDy1Z63&export=download","thumbnail":"https://drive.google.com/uc?id=163mGc8AJcEFipCDdu-rPY-cRcpihre1M&export=download","downloadable":true },
-{"name":"MountainsView1","author":"","url":"https://drive.google.com/uc?id=13EV53P-Sz3HDXiJUltGCF27DCr35FOME&export=download","thumbnail":"https://drive.google.com/uc?id=17FAqfECSV_suEVJJ8VOn6Kg38TXJpEXk&export=download","downloadable":true },
-{"name":"PixelStyle","author":"","url":"https://drive.google.com/uc?id=1j5dJoyNaw_bfdhwFCy_teNlY0BGS0wEY&export=download","thumbnail":"https://drive.google.com/uc?id=1pHM6s2DHzADRCyXA747DaIir1jq9KLVd&export=download","downloadable":true },
-{"name":"PixelStyle1","author":"","url":"https://drive.google.com/uc?id=1wXBdqSf1FUkIO6LSRp1fGbD_SZ5VuCf8&export=download","thumbnail":"https://drive.google.com/uc?id=1-ii9KUpK1DQz6_07yMnuTUe3Jvm8n7Pw&export=download","downloadable":true },
-{"name":"PlaneSunset","author":"","url":"https://drive.google.com/uc?id=1aOZrtC2FewNjF2osrr8QvFlE2R43yiN9&export=download","thumbnail":"https://drive.google.com/uc?id=1UO20SMYi_lsGQoSIzKlPjdcoCvTt1dVd&export=download","downloadable":true },
-{"name":"PlaneSunset1","author":"","url":"https://drive.google.com/uc?id=1IxyX0ALG3UQpO_Zgrg2M-0vPtghv1NJ5&export=download","thumbnail":"https://drive.google.com/uc?id=14sRaD2YFzv1q7WW-rrgcolC3kMK8rTJt&export=download","downloadable":true },
-{"name":"PlaneSunsetAmoled","author":"","url":"https://drive.google.com/uc?id=1CeAc64SDxPVfGdQKKNsF1f1x6M8JFROm&export=download","thumbnail":"https://drive.google.com/uc?id=1fadLrtS0BMXFSIZZzj5ogGBWlsoIL8mV&export=download","downloadable":true },
-{"name":"PlaneSunsetGray","author":"","url":"https://drive.google.com/uc?id=1-KX64EySvjhoDubCXG4EbE8QDntn6cWl&export=download","thumbnail":"https://drive.google.com/uc?id=1yibuiiMXRqzi7xeLacHY3al5JmsUa6d2&export=download","downloadable":true },
-{"name":"PlayAgain","author":"","url":"https://drive.google.com/uc?id=18NWDC5HYEL36xEa-Aw3tWNodK8LZIzRV&export=download","thumbnail":"https://drive.google.com/uc?id=1rpkT63s7bcXD1ptEjEgU2bP3vuR2hMuT&export=download","downloadable":true },
-{"name":"PlayAgain1","author":"","url":"https://drive.google.com/uc?id=1mdmJiD-5AFrxCAj0QXqLq1BIRxd870EU&export=download","thumbnail":"https://drive.google.com/uc?id=12ZpQQKgUN0Am9V1M___8-fS6hR9V4qFL&export=download","downloadable":true },
-{"name":"RocketSpace","author":"","url":"https://drive.google.com/uc?id=1HpLzpAbgFVEde8di0PXgL4hHFbbjGYa0&export=download","thumbnail":"https://drive.google.com/uc?id=1Zmsbnn6-Wq4XsRgmP_5-j4Y1xFyZg3Ru&export=download","downloadable":true },
-{"name":"RocketSpace1","author":"","url":"https://drive.google.com/uc?id=10VAJpU5wO1dCnOj2HkQWSjNzwiXYwlPR&export=download","thumbnail":"https://drive.google.com/uc?id=1PePPreeOWHZHiGtYXwTF6GdPW9J-QThZ&export=download","downloadable":true },
-{"name":"SecretSword","author":"","url":"https://drive.google.com/uc?id=1Q0DwdLNrMLgwVMUI8u0m-52GySU1sjjq&export=download","thumbnail":"https://drive.google.com/uc?id=18on2bnA9N3Yb1S_Tvyl7cMGl4Hmowl1Y&export=download","downloadable":true },
-{"name":"SecretSword1","author":"","url":"https://drive.google.com/uc?id=1MJwMwPAXC6bVG7M0-LRibk6cTD0tyvNV&export=download","thumbnail":"https://drive.google.com/uc?id=15eygMO9EkA-I_uz4kUfXXCTPfy1gUZfC&export=download","downloadable":true },
-{"name":"SecretSword2","author":"","url":"https://drive.google.com/uc?id=1_ftB84dOP6VOqwBCCeVXVHsG97AMl-de&export=download","thumbnail":"https://drive.google.com/uc?id=14l0ra-Wg1miKsTXtUwMBOIfidJ3SOAyx&export=download","downloadable":true },
-{"name":"SecretSword3","author":"","url":"https://drive.google.com/uc?id=1yNMAAzmkSk_VMjd9pcmdWkcJsKsmL--S&export=download","thumbnail":"https://drive.google.com/uc?id=1gTyjy8L4pJpRTvEJh_PYB0rxWt2nyaby&export=download","downloadable":true },
-{"name":"Skater","author":"","url":"https://drive.google.com/uc?id=1DmCt2ZgKJnVrSDw8n2RxhyPNBml4fcKu&export=download","thumbnail":"https://drive.google.com/uc?id=1SIs9TJhf8q6WlmGHN8cAE-Rxv-x-It-j&export=download","downloadable":true },
-{"name":"Skater1","author":"","url":"https://drive.google.com/uc?id=1gK3Yw5ixUpjH2IiaP4cwWvK6epDzq-Ao&export=download","thumbnail":"https://drive.google.com/uc?id=1wcHnSWbC0GIlIOeuk4ZqTvp7mm1_3kXB&export=download","downloadable":true },
-{"name":"Skater2","author":"","url":"https://drive.google.com/uc?id=1uKGvCMelwgSCdZG-FKivSEWotQEu3pxC&export=download","thumbnail":"https://drive.google.com/uc?id=1PjvLEEnefss8hONXhAUc270Vvk4GT1S6&export=download","downloadable":true },
-{"name":"Skater3","author":"","url":"https://drive.google.com/uc?id=1ff0kaOjHfB2Umluy9gU3NysbstpAIikk&export=download","thumbnail":"https://drive.google.com/uc?id=1ecT9DK-f-5jj4pwuiPAj2VJY7OW2Lpmm&export=download","downloadable":true },
-{"name":"SpacePlanet","author":"","url":"https://drive.google.com/uc?id=1ruBaIN6ER_GZYaNbIXhG9xntVNofP7sc&export=download","thumbnail":"https://drive.google.com/uc?id=19dnsv6_4cp64sWBDc4qtLayNAMa11jcu&export=download","downloadable":true },
-{"name":"SpacePlanetAmoled","author":"","url":"https://drive.google.com/uc?id=1cXkEf8pQLE00V99bXBlui4XiUu4AQ9Kf&export=download","thumbnail":"https://drive.google.com/uc?id=1qWRYp6A6kz1yl7OB-REbL7k_zTaSnPkN&export=download","downloadable":true },
-{"name":"StarsView","author":"","url":"https://drive.google.com/uc?id=1AnzEscJmL5aSPrTxdUCU5HEXJVG3gjrI&export=download","thumbnail":"https://drive.google.com/uc?id=11iy37K7v7vFSHWgDaf2mKhFkQ4bWN1GQ&export=download","downloadable":true },
-{"name":"StarsView1","author":"","url":"https://drive.google.com/uc?id=1sBYUC6RKyBYW6tkqF-5rscAiknnhBa5D&export=download","thumbnail":"https://drive.google.com/uc?id=17kBvv4eGfaZeAsNRHubfcS0XS7Xzis1p&export=download","downloadable":true },
-{"name":"StrangePlanet","author":"","url":"https://drive.google.com/uc?id=1HqZVqKPjzJGjCM_d5eKQSyasRhsvn4CY&export=download","thumbnail":"https://drive.google.com/uc?id=1LFakwxh3z1hhLwcI4PhxRo7_dRGAkHl9&export=download","downloadable":true },
-{"name":"StrangePlanet1","author":"","url":"https://drive.google.com/uc?id=1Rl2fa5JHlF_Iwy2SBIneFIZLybnd45h7&export=download","thumbnail":"https://drive.google.com/uc?id=165K5-cp9p_6FSSlTUlvWIetNBJUSRXr5&export=download","downloadable":true },
-{"name":"StrangePlanetGray","author":"","url":"https://drive.google.com/uc?id=16sN_mAFmTyihITeWkMDo6ctowQMU3o83&export=download","thumbnail":"https://drive.google.com/uc?id=1uUT_OHOwWXSPO9BT_BRZ4BHgmgjUdmu5&export=download","downloadable":true },
-{"name":"SunsetBoat","author":"","url":"https://drive.google.com/uc?id=1vV_asCd-OyE_N_qPAU64GRpOK6Umv22a&export=download","thumbnail":"https://drive.google.com/uc?id=1E9zTuAsuQlVKfic3IYL80FMZ0Ck-tPYd&export=download","downloadable":true },
-{"name":"SunsetSky","author":"","url":"https://drive.google.com/uc?id=1ExgzCOUCjyvK_76__Zqys1Hjp4VliGPN&export=download","thumbnail":"https://drive.google.com/uc?id=18KySWbS3cemjhX7r6nFzddIUbzrEL1at&export=download","downloadable":true },
-{"name":"TwocolorsMountain","author":"","url":"https://drive.google.com/uc?id=18HshbOille7M3cuw_R949vUmJfgoVSm6&export=download","thumbnail":"https://drive.google.com/uc?id=1INIDDmfXF8jIC7DwAUHFRYHfqXTeZQwA&export=download","downloadable":true },
-{"name":"TwocolorsMountain1","author":"","url":"https://drive.google.com/uc?id=1nKQm-dwMlVgwxrKhZqAlO78g6cBkJalm&export=download","thumbnail":"https://drive.google.com/uc?id=1b6UpTfI0rELrN7UtSKJgvmWtgaZKgQfP&export=download","downloadable":true },
-{"name":"WindowView","author":"","url":"https://drive.google.com/uc?id=14OwxVF6JXdpvmEjXyuvhDO9ptKenCIXQ&export=download","thumbnail":"https://drive.google.com/uc?id=1PIYauTU-nWyt3MxKiCGdRtcLsFtszNV2&export=download","downloadable":true },
-{"name":"WindowViewAmoled","author":"","url":"https://drive.google.com/uc?id=1GTfvfjCDhmcYHXtv7h6FR7az-iCUnLJ1&export=download","thumbnail":"https://drive.google.com/uc?id=1vjXZ36p7VjD89UiwW86dOHy7gV5hyDXC&export=download","downloadable":true },
-    
+	},
+                  
          {
             "name":"Wall 44",
             "author":"Mayky",
